@@ -44,12 +44,12 @@ Recent work experience
   * Internet Association (USA)
   * Duties included: Analyzed employment diversity of technological companies
   *                  Prepared data and analytical inputs to presentations
- 
- * October 2016 to October 2019: Tutor
-  * MyTutor Inc.
-  * Duties included: Assisted undergraduate and graduate students in Mathematics and Economics 
-  *                  Students understood their courses more and successful in passing their exams
 
+* October 2016 to October 2019: Tutor
+  * MyTutor Inc.
+  * Duties included: Assisted undergraduate and graduate students in Mathematics and Economics
+  *                  Students understood their courses more and successful in passing their exams
+ 
 Media and Blog Posts
 ======
   <ul>{% for post in site.publications %}
