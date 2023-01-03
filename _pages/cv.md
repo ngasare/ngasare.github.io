@@ -15,6 +15,15 @@ Education
 * M.A. in Economics, University of Ottawa, 2009
 * Ph.D. in Economics, University of Ottawa, 2018
 
+Training and Certifications
+======
+* Project Management Principles, University of California, Irvine (Coursera) (In progress)
+* Futures Thinking Specialization, Institute for the Future (Coursera), 2022
+* Time Mgmt. for Personal & Prof. Prod., University of California, Irvine (Coursera), 2022
+* Introduction to Python, University of Waterloo Professional Development, 2021 
+* Briefing Notes that Work, Professional Development Institute, Ottawa, ON, 2019
+* Practical Grammar, Professional Development Institute, Ottawa, ON, 2019
+
 Recent work experience
 ======
 * June 2020 to present: Analyst/Policy Analyst/Economist
@@ -41,16 +50,7 @@ Recent work experience
   * Duties included: Assisted undergraduate and graduate students in Mathematics and Economics 
   *                  Students understood their courses more and successful in passing their exams
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
+Media and Blog Posts
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
