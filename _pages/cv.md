@@ -68,6 +68,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Full CV
 ======
-* Currently signed in to 43 different slack teams
+* Full and more detailed CV is available upon request.
