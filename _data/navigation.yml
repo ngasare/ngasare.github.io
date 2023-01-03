@@ -23,7 +23,7 @@ main:
     url: /cv/
     
   - title: "Links"
-    url: /year-archive/
+    url: links
     
   #- title: "Guide"
    # url: /markdown/
