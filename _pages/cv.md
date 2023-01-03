@@ -52,9 +52,8 @@ Recent work experience
  
 Media and Blog Posts
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+ * [Stratification Economics](https://www.exploring-economics.org/en/discover/stratifications-economics/), co-authored with T.Lewis and B.Fields, 2021
+ * [Employment and investment: the Canadian disconnect](https://worthwhile.typepad.com/worthwhile_canadian_initi/2014/07/employment-and-investment-the-great-canadian-disconnect.html), co-authored with H.Khan, 2014
   
 Talks
 ======
