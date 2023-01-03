@@ -20,6 +20,4 @@ More content will be added to this new page very soon, including papers and blog
 
 Non-economic facts about me
 ======
-I enjoy comics and love to do puzzles - especially the 3D ones.
-
-I also love to go for walks.
+I enjoy going out for walks, reading books and comics, and solving puzzles - especially the 3D ones.
